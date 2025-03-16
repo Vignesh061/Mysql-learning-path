@@ -1,0 +1,1 @@
+The CHECK constraint is used to limit what values can be placed in a column.
